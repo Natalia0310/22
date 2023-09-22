@@ -1,32 +1,32 @@
 export const galleryItems = [
   {
     preview:
-      './img/photo1685629139.png.png',
+      './img/1.png',
     original:
-      './img/photo1685629139.jpeg',
+      './img/1.jpeg',
     // description: 'Lighthouse Coast Sea',
   },
   {
     preview:
-      './img/4.png',
+      './img/2.png',
     original:
-      './img/4.jpeg',
+      './img/2.jpeg',
     // description: 'Alpine Mountains',
   },
   {
     preview:
-      './img/photo1685632643.png.png',
+      './img/3.png',
     original:
-      './img/photo1685632643.jpeg',
+      './img/3.jpeg',
     // description: 'Aerial Beach View',
   },
  
   
   {
     preview:
-      './img/3.png',
+      './img/4.png',
     original:
-      './img/3.jpeg',
+      './img/4.jpeg',
     // description: 'Flower Blooms',
   },
   // {
@@ -38,9 +38,9 @@ export const galleryItems = [
   // },
   {
     preview:
-      './img/1.png',
+      './img/5.png',
     original:
-      './img/1.jpeg',
+      './img/5.jpeg',
     // description: 'Mountain Lake Sailing',
   },
   {
@@ -52,16 +52,23 @@ export const galleryItems = [
   },
   {
     preview:
-      './img/photo1685632835.png.png',
+      './img/7.png',
     original:
-      './img/photo1685632835.jpeg',
+      './img/7.jpeg',
     // description: 'Nature Landscape',
   },
   {
     preview:
-      './img/photo1685629119.png.png',
+      './img/8.png',
     original:
-      './img/photo1685629119.jpeg',
+      './img/8.jpeg',
+    // description: 'Hokkaido Flower',
+  },
+  {
+    preview:
+      './img/9.png',
+    original:
+      './img/9.jpeg',
     // description: 'Hokkaido Flower',
   },
  
